@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a1024"/>
+      <stop offset="100%" stop-color="#0f2745"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#bg)" rx="24"/>
+  <g font-family="'Fira Code', 'Courier New', monospace" font-size="26">
+    <text x="60" y="90" fill="#7ad6f9">const</text>
+    <text x="150" y="90" fill="#cb95ff">events</text>
+    <text x="290" y="90" fill="#ffcd7c">=</text>
+    <text x="340" y="90" fill="#7ad6f9">[</text>
+    <text x="370" y="90" fill="#7ef29c">'dragenter'</text>
+    <text x="550" y="90" fill="#7ad6f9">,</text>
+    <text x="580" y="90" fill="#7ef29c">'dragover'</text>
+    <text x="750" y="90" fill="#7ad6f9">]</text>
+
+    <text x="60" y="150" fill="#6dd1ff">forEach</text>
+    <text x="190" y="150" fill="#fff">(</text>
+    <text x="210" y="150" fill="#ff8fa3">ev</text>
+    <text x="260" y="150" fill="#fff">=&gt;</text>
+    <text x="340" y="150" fill="#fff">{</text>
+
+    <text x="100" y="210" fill="#ffcd7c">dropZone</text>
+    <text x="260" y="210" fill="#fff">.</text>
+    <text x="280" y="210" fill="#6dd1ff">addEventListener</text>
+    <text x="560" y="210" fill="#fff">(</text>
+    <text x="580" y="210" fill="#ff8fa3">ev</text>
+    <text x="630" y="210" fill="#fff">,</text>
+    <text x="660" y="210" fill="#fff">(</text>
+    <text x="680" y="210" fill="#7ef29c">e</text>
+    <text x="710" y="210" fill="#fff">)</text>
+    <text x="730" y="210" fill="#fff">=&gt;</text>
+    <text x="800" y="210" fill="#fff">{</text>
+
+    <text x="140" y="270" fill="#7ad6f9">e</text>
+    <text x="170" y="270" fill="#fff">.</text>
+    <text x="190" y="270" fill="#6dd1ff">preventDefault</text>
+    <text x="470" y="270" fill="#fff">()</text>
+
+    <text x="140" y="330" fill="#7ad6f9">dropZone</text>
+    <text x="300" y="330" fill="#fff">.</text>
+    <text x="320" y="330" fill="#6dd1ff">classList</text>
+    <text x="500" y="330" fill="#fff">.</text>
+    <text x="520" y="330" fill="#6dd1ff">add</text>
+    <text x="600" y="330" fill="#fff">(</text>
+    <text x="620" y="330" fill="#7ef29c">'solid-border'</text>
+    <text x="840" y="330" fill="#fff">)</text>
+
+    <text x="120" y="390" fill="#fff">}</text>
+    <text x="100" y="450" fill="#fff">})</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
+  <rect width="1000" height="500" fill="#0b0b0b"/>
+  <g font-family="'Source Code Pro', 'Courier New', monospace" font-size="22" fill="#f8f8f2">
+    <text x="40" y="70" fill="#00d9ff">$(document)</text>
+    <text x="290" y="70" fill="#f8f8f2">.</text>
+    <text x="310" y="70" fill="#ffae57">ready</text>
+    <text x="410" y="70" fill="#f8f8f2">(</text>
+    <text x="430" y="70" fill="#8ef296">function</text>
+    <text x="560" y="70" fill="#f8f8f2">(){</text>
+
+    <text x="80" y="120">$('.tab')</text>
+    <text x="250" y="120" fill="#f8f8f2">.</text>
+    <text x="270" y="120" fill="#ffae57">on</text>
+    <text x="320" y="120" fill="#f8f8f2">('click',</text>
+    <text x="460" y="120" fill="#8ef296">function</text>
+    <text x="590" y="120" fill="#f8f8f2">(){</text>
+
+    <text x="120" y="170" fill="#7ad6f9">console</text>
+    <text x="260" y="170" fill="#f8f8f2">.</text>
+    <text x="280" y="170" fill="#ffae57">log</text>
+    <text x="340" y="170" fill="#f8f8f2">('data-tab')</text>
+
+    <text x="80" y="220">})</text>
+    <text x="60" y="270">})</text>
+  </g>
+  <text x="820" y="470" fill="#ffffff" font-family="Arial" font-size="64" opacity="0.6">letsdev</text>
+</svg>
