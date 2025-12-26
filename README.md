@@ -1,6 +1,6 @@
 # Documento Detallado de Diseno (DDD)
 
-# Descripcion de su trabajo
+# Descripcion del trabajo
 Este proyecto es un sitio web estatico creado con HTML y CSS. Incluye una pagina principal y varias secciones publicas con informacion sobre mi, mi carrera academica y enlaces a sitios de compañeros.
 
 # Estructura del proyecto
