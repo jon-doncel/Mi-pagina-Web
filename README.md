@@ -9,6 +9,8 @@ Este proyecto es un sitio web estatico creado con HTML y CSS. Incluye una pagina
 - `docs/css/`: hoja de estilos compartida (`styles.css`).
 - `docs/images/`: carpeta en la que se almacenen las imágenes.
 - Archivos raiz: `README.md`.
+- Archivos raiz: `LICENSE`.
+- Archivos raiz: `.gitignore`.
 
 # Uso
 No hay backend ni scripts para enviar formularios; todo es interfaz.
